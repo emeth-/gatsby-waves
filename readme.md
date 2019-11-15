@@ -1,3 +1,11 @@
+# sb notes...
+cd to demo directory
+npm install
+npm install typescript
+npm start
+
+We're working on the decks one
+
 # Gatsby Theme Waves
 
 > Still experimental but you can give it a try

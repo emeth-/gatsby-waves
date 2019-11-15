@@ -8,10 +8,10 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "deepmerge": "^4.0.0",
+    "deepmerge": "^4.2.2",
     "gatsby": "^2.13.24",
     "gatsby-theme-blog": "^1.0.2",
-    "gatsby-theme-waves": "*",
+    "gatsby-theme-waves": "^0.1.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "typescript": "^3.7.2"
